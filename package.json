@@ -1,0 +1,14 @@
+{
+  "name": "observable-renderer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Takagi Kensuke <janus.wel.3@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node ./proxy.js"
+  },
+  "dependencies": {
+    "eventemitter3": "^4.0.0"
+  }
+}
